@@ -1,0 +1,7 @@
+A sample created to demonstrate capabilities of Scala.
+Problem that serves as the example is processing of Polish personal ID number, PESEL.
+
+Created 2012 by Przemyslaw Pokrywka
+Use it freely according to the terms of the MIT Licence
+
+To run and test it use SBT invoke: 'sbt run'
